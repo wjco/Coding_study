@@ -1,5 +1,6 @@
 # Coding_study
-코딩왕이 되어보겠습니다.
+코딩왕이 되어보자
+
 Let's be the coding king
 
 ## study_ambitiously
